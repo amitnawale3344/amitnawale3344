@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Amit Nawale. I am Softaware Architect. I love to learn new technologies and frameworks.
+- 👀 I’m interested in Software Design and Development, AI, Astronomy.
+- 🌱 I’m currently learning React,Machine Learning.
